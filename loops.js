@@ -19,28 +19,28 @@
 
 // let sum=0
 // for (let i=0; i< array.length; i++){
-//     sum = sum + array[i];
+//     sum = sum + array[i]; 
 // }
 
 // console.log(sum)
 
 
+// for (let i=10; i>= 0; i--) {
+//     if (i === 0) {
+//         console.log("BLAST OFF!") 
+//         return // makes it stop here 
+//     }
+//     console.log(i) // you are trying 
+// }
+
+// // i doesn't exist here 
+
 for (let i=10; i>= 0; i--) {
-    if (i === 0) {
+    if (i === 5) {
         console.log("BLAST OFF!") 
         return // makes it stop here 
     }
-    console.log(i) // you are trying 
-}
-
-// i doesn't exist here 
-
-for (let i=10; i>= 0; i--) {
-    if (i === 0) {
-        console.log("BLAST OFF!") 
-        return // makes it stop here 
-    }
-    console.log(i) // you are trying 
+    console.log(i) // you are trying to see what i is with 
 }
 
 // i doesn't exist here 

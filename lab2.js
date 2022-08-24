@@ -9,7 +9,8 @@
 // evenNumber()
 
 function evenNumber(){
-for (let i=0; i <= 100; i= i + 2){
+for (let i=0; i <= 100; i= i + 2) // could have done on the end i+=2 and it would have been the same thing 
+{
          console.log(i)}
 }
 

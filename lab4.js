@@ -18,7 +18,3 @@ const classmatesNames = ["Bridgit", "Alicia", "Carla"]
 for (i=0; i< classmatesNames.length; i ++) {
     console.log(classmatesNames[i])
 }
-
-for ( i=0 ; i> classmatesNames.length; i++ ) {
-    console.log(classmatesNames[i])
-}
